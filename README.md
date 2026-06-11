@@ -293,7 +293,4 @@ streamlit run streamlit_app.py
 
 Aulia Putri
 
-Computer Science Student
-Universitas Bina Bangsa
-
 LinkedIn: [www.linkedin.com/in/aulia-putri18](http://www.linkedin.com/in/aulia-putri18)
